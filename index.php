@@ -4,7 +4,14 @@
 #    
 function cetakhello() {
   echo "Hello World";
-# 00110287  
 }
+#19112465
 
+$x = 5;
+$y = 4;
+echo $x?php
+$x = 5;
+$y = 4;
+echo $x + $y;
 ?>
+

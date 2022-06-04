@@ -5,13 +5,16 @@
 function cetakhello() {
   echo "Hello World";
 }
-#19112465
+function tambah ()
+{
+  #19112465
 
-$x = 5;
-$y = 4;
-echo $x?php
-$x = 5;
-$y = 4;
-echo $x + $y;
+  $x = 5;
+  $y = 4;
+  echo $x;
+  $x = 5;
+  $y = 4;
+  echo $x + $y;
+}
 ?>
 
